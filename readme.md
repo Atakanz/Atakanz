@@ -10,10 +10,10 @@
 ### Reach out to me
 
 [linkedin]: https://www.linkedin.com/in/atakanzerafet/
-[hackerrank]: https://www.hackerrank.com/atakanzer
+
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/hackerrank.svg"  />][hackerrank]
+
 
 <br />
 

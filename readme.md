@@ -1,4 +1,4 @@
-<img align='right' alt='GIF' src= 'https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width=250  align="left"height=250>
+<img align='right' alt='GIF' src= 'https://github.com/rudrabarad/Gifs' width=250  align="left" height=250>
 
 ### Hi there, I am Atakan :)
 

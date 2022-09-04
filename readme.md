@@ -4,7 +4,7 @@
 
 ## React Native Developer | Acoustic Engineer 
 
-<font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. Due to the sensitive hearing requirement in Sound Signal Processing and Analysis and my aural talents, I decided to pursue a master's degree in Music Technology. On the scope of this program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design as well. 
+<font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. Due to the sensitive hearing requirement in Sound Signal Processing-Analysis and my aural talents, I decided to pursue a master's degree in Music Technology. On the scope of this program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design as well. 
 </font>
 
 ### Reach out to me

@@ -4,7 +4,7 @@
 
 ## Front-End Developer 
 
-<font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. The master's degree program I chosed and the front-end development courses I took in my professional life are both indications of this thinking style trait. Due to the sensitive hearing requirement in Sound Signal Processing-Analysis and my aural talents, I decided to pursue a master's degree in Music Technology. On the scope of this program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design as well. I'm currently improving my coding abilities at Patika & Akbank's React Native Development course. 
+<font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. The master's degree program I chosed and the front-end development courses I took in my professional life are both indications of this thinking style trait. On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I'm currently improving my coding abilities at Patika & Akbank's React Native Development course.  
 </font>
 
 ### Reach out to me

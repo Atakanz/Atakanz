@@ -34,8 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Atakanz&theme=radical"></img>
 </details>
 
-<br />
-<br />
 
 <details>
 <summary>:bulb: Most Used Languages</summary>

@@ -31,13 +31,13 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Atakanz&theme=radical"></img>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atakanz&theme=radical"></img>
 </details>
 
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atakanz"></img>
+<img "center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atakanz"></img>
 </details>
 
 

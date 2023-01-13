@@ -6,7 +6,6 @@
 <font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. The master's degree program I chosed and the front-end development courses I took in my professional life are both indications of this thinking style trait. On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I'm currently improving my coding abilities at Patika & Akbank's React Native Development course.  
 </font>
 
-<br />
 
 ### Reach out to me
 
@@ -27,7 +26,7 @@
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <br />
-<br />
+
 
 <details>
 <summary>:bulb: Github Stats</summary>

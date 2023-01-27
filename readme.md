@@ -1,5 +1,5 @@
 
-### Hi there! :blush:
+### Hi there! :wave:
 
 ## Front-End Developer 
 

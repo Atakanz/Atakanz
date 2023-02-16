@@ -1,9 +1,9 @@
 
 ### Hi there! :wave:
 
-## Front-End Developer 
+## React.js / React Native Developer
 
-<font color="lightblue">I have always select my specialties based on the points where my engineering abilities and interests converge. The master's degree program I chosed and the front-end development courses I took in my professional life are both indications of this thinking style trait. On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I'm currently improving my coding abilities at Patika & Akbank's React Native Development course.  
+<font color="lightblue">On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I passed a test on JavaScript coding methods and went through a long review procedure before being accepted to Patika.dev & Akbank's React Native programming bootcamp. I'm currently discovering and using new packages and technologies at this point. 
 </font>
 
 

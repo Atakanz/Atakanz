@@ -7,14 +7,14 @@
 </font>
 
 
-### Reach out to me
+### Reach Out to Me
 
 [linkedin]: https://www.linkedin.com/in/atakanzerafet/
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Tech I used
+### Tech I Used
 
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
@@ -26,13 +26,13 @@
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <br />
-<br />
 
 <details>
 <summary>:bulb: Github Stats</summary>
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atakanz&theme=radical"></img>
 </details>
 
+<br />
 
 <details>
 <summary>:bulb: Most Used Languages</summary>

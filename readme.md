@@ -3,7 +3,7 @@
 
 ## React.js / React Native Developer
 
-<font color="lightblue">On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I passed a test on JavaScript coding methods and went through a long review procedure before being accepted to Patika.dev & Akbank's React Native programming bootcamp. I'm currently discovering and using new packages and technologies at this point. 
+<font color="lightblue"><p style='text-align: justify;'>On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I passed a test on JavaScript coding methods and went through a long review procedure before being accepted to Patika.dev & Akbank's React Native programming bootcamp. I'm currently discovering and using new packages and technologies at this point. </p>
 </font>
 
 

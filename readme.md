@@ -2,7 +2,9 @@
 
 ## React.js / React Native Developer
 
-<font color="lightblue"><p style='text-align: justify;'>On the scope of Music Technology Master's program, the coding expertise I developed for projects involving audio analysis piqued my interest in other software-related fields such as front-end design. I passed a test on JavaScript coding methods and went through a long review procedure before being accepted to Patika.dev & Akbank's React Native programming bootcamp. I'm currently discovering and using new packages and technologies at this point. </p>
+<font color="lightblue"><p style='text-align: justify;'>I am an interdisciplinary researcher and sound engineer with a background in Electrical & Electronics Engineering, Music Technology, and ongoing PhD studies in Art & Design. In addition to my graduate thesis and academic research, I have contributed to university-funded (BAP) research projects at Dokuz Eylul University, working on acoustic measurements, signal and data analysis, IFC-based BIM space modeling, and research-driven evaluation of acoustic comfort, noise pollution, speech intelligibility, and speech privacy in educational and public spaces.
+
+Alongside my academic work, I have professional experience as an Event Operations Supervisor, where I developed strong skills in organization, process management, and technical coordination in live event environments. On the software side, I have produced signal processing and analysis projects in MATLAB, and I am currently transitioning into Python for data analysis and research-oriented workflows, with a focus on advancing my skills toward software-supported acoustic analysis and R&D applications. </p>
 </font>
 
 ### Reach Out to Me
@@ -37,3 +39,4 @@
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atakanz"></img>
 </details>
+

@@ -4,7 +4,7 @@
 
 <font color="lightblue"><p style='text-align: justify;'>I am an interdisciplinary researcher and sound engineer with a background in Electrical & Electronics Engineering, Music Technology, and ongoing PhD studies in Art & Design. In addition to my graduate thesis and academic research, I have contributed to university-funded (BAP) research projects at Dokuz Eylul University, working on acoustic measurements, signal and data analysis, IFC-based BIM space modeling, and research-driven evaluation of acoustic comfort, noise pollution, speech intelligibility, and speech privacy in educational and public spaces.
 
-Alongside my academic work, I have professional experience as an Event Operations Supervisor, where I developed strong skills in organization, process management, and technical coordination in live event environments. On the software side, I have produced signal processing and analysis projects in MATLAB, and I am currently transitioning into Python for data analysis and research-oriented workflows, with a focus on advancing my skills toward software-supported acoustic analysis and R&D applications. </p>
+For the online splaying calculator: https://controlledsplay.vercel.app/
 </font>
 
 ### Reach Out to Me

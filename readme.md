@@ -1,6 +1,5 @@
 ### Hi there! :wave:
 
-## React.js / React Native Developer
 
 <font color="lightblue"><p style='text-align: justify;'>I am an interdisciplinary researcher and sound engineer with a background in Electrical & Electronics Engineering, Music Technology, and ongoing PhD studies in Art & Design. In addition to my graduate thesis and academic research, I have contributed to university-funded (BAP) research projects at Dokuz Eylul University, working on acoustic measurements, signal and data analysis, and research-driven evaluation of acoustic comfort, noise pollution, speech intelligibility, and speech privacy in educational and public spaces.
 

@@ -27,15 +27,5 @@ For the online splaying calculator: https://controlledsplay.vercel.app/
 
 <hr/>
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atakanz&theme=radical"></img>
-</details>
 
-<hr/>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atakanz"></img>
-</details>
 
